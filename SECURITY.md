@@ -22,7 +22,7 @@ If you discover a security vulnerability, **please DO NOT open a public GitHub i
 ### 🔒 Responsible Disclosure
 
 1. Report privately by emailing:  
-   📧 **arshanth2005@gmail.com**
+   📧 **arshanthk@gmail.com**
 
 2. Include:
    - A detailed description of the issue.
